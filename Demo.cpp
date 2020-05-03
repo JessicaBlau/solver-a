@@ -5,7 +5,6 @@
 //  First version by Adam Lev-Ari on 29/12/2019.
 //  Second version by Erel Segal-Halevi on 22/04/2020.
 //
-
 #include <iostream>
 #include <complex>
 #include "solver.hpp"
